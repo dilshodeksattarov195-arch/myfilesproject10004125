@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorserify",
+        "uuid": 38907000,
+        "checksum": "6lmnx7"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
